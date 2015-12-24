@@ -12,6 +12,9 @@ Only main skins that I usually swap around and play with are included here.
 # [shigeskin](http://puu.sh/m7hql/4bde743ac5.osk)
 ![](http://puu.sh/m7hs4/b377edc8e8.jpg)
 
+#[NewSkinColor2](http://puu.sh/m7j49/a9748fc259.osk)
+![](http://puu.sh/m7j03/0b51df9d87.jpg)
+
 # [keigotest](http://puu.sh/lYDoP/126a066cc0.zip)
 ![](http://puu.sh/m7hur/5f2f20b8c3.jpg)
 
