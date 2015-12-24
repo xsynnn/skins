@@ -39,9 +39,13 @@ PRIVATE
 #[Cilvery's](http://puu.sh/hq8d7/e6fd6d24e5.zip)
 ![](http://puu.sh/m7i76/37e89e3f0f.jpg)
 
+#[Guy](http://puu.sh/m7iMh/203821588f.osk)
+![](http://puu.sh/m7iKW/e0c155ebb0.jpg)
+
 #Fluo_MIX_v2
 PRIVATE - Requested by owner of the skin.
 ![](http://puu.sh/m7if6/7e5eec2972.jpg)
 
-#[Guy](http://puu.sh/m7iMh/203821588f.osk)
-![](http://puu.sh/m7iKW/e0c155ebb0.jpg)
+#Life - Proto
+PRIVATE - Contains private skin elements(not on gameplay)  
+![](http://puu.sh/m7j9K/b8894564e9.jpg)
