@@ -1,5 +1,5 @@
 # Anticipate's skin compilation
-**This will contain the skins that I use. Skins that does not have link means they are PRIVATE and will not have access to the download** link.
+**This will contain the skins that I use. Skins that does not have link means they are PRIVATE and will not have access to the download link.**
 **Click on the skin name to download the desired skin.**
 
 # [shigeskin](http://puu.sh/m7hql/4bde743ac5.osk)
