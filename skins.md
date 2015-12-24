@@ -14,6 +14,7 @@
 #[Seysant+Purple](http://puu.sh/m7hGZ/0fc5f348e9.osk)
 ![](http://puu.sh/m7hFs/c6732a1c0f.jpg)
 
-#YUGEN synn edit // PRIVATE(Private elements) - [Click here for the original skin](https://osu.ppy.sh/forum/t/365036)
+**YUGEN synn edit // PRIVATE(Private elements)** - 
+#[Click here for the original skin](https://osu.ppy.sh/forum/t/365036)
 ![](http://puu.sh/m7hOt/73ba0eb6f7.jpg)
 
