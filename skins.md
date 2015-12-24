@@ -18,7 +18,7 @@ Only main skins that I usually swap around and play with are included here.
 ![](http://puu.sh/m7hFs/c6732a1c0f.jpg)
 
 #YUGEN synn edit
-PRIVATE(Private elements) 
+PRIVATE - 
 [Click here for the original skin thread.](https://osu.ppy.sh/forum/t/365036)
 ![](http://puu.sh/m7hOt/73ba0eb6f7.jpg)
 
@@ -26,7 +26,7 @@ PRIVATE(Private elements)
 ![](http://puu.sh/m7i3y/eb7379d3b8.jpg)
 
 #Synnn v2 + no follow points
-PRIVATE(Private elements)
+PRIVATE
 ![](http://puu.sh/m7hVs/243699dafa.jpg)
 
 #[Cilvery's](http://puu.sh/hq8d7/e6fd6d24e5.zip)
