@@ -11,3 +11,9 @@
 # [CiniaSkin](http://puu.sh/m7hBj/851de48649.osk)
 ![](http://puu.sh/m7hC4/48f5ce790a.jpg)
 
+#[Seysant+Purple](http://puu.sh/m7hGZ/0fc5f348e9.osk)
+![](http://puu.sh/m7hFs/c6732a1c0f.jpg)
+
+#YUGEN synn edit // PRIVATE(Private elements) - [Click here for the original skin](https://osu.ppy.sh/forum/t/365036)
+![](http://puu.sh/m7hGZ/0fc5f348e9.osk)
+
