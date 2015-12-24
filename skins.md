@@ -3,7 +3,7 @@
 **Click on the skin name to download the desired skin.**
 
 Take note that not all skins are added here.  
-Only main skins that I usually swap around and play with are included here.
+Only main skins that I usually swap around and play with are included here.  
 [Beatmap used for screenshots](https://osu.ppy.sh/b/845391) - Thumbs up to eLy for this amazing map!  
 
 # [shigeskin](http://puu.sh/m7hql/4bde743ac5.osk)
