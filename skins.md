@@ -18,3 +18,6 @@
 [Click here for the original skin thread.](https://osu.ppy.sh/forum/t/365036)
 ![](http://puu.sh/m7hOt/73ba0eb6f7.jpg)
 
+#Synnn v2 + no follow points // PRIVATE(Private elements)
+![](http://puu.sh/m7hVs/243699dafa.jpg)
+
