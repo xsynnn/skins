@@ -4,7 +4,7 @@
 
 Take note that not all skins are added here.  
 Only main skins that I usually swap around and play with are included here.  
-[Beatmap used for screenshots](https://osu.ppy.sh/b/845391) - Thumbs up to **eLy** for this amazing map!  
+**[Beatmap used for screenshots](https://osu.ppy.sh/b/845391)** - Thumbs up to **eLy** for this amazing map!  
 
 **There are known-download compatibility issue with Mozilla Firefox for the .osk extension.**   
 **So in order to download the .osk files, you will have to open them up and hit Ctrl+S, save them and then open them normally afterwards!**
